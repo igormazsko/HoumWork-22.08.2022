@@ -1,0 +1,15 @@
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\bin\Debug\net6.0\Task_41.exe
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\bin\Debug\net6.0\Task_41.deps.json
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\bin\Debug\net6.0\Task_41.runtimeconfig.json
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\bin\Debug\net6.0\Task_41.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\bin\Debug\net6.0\Task_41.pdb
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.csproj.AssemblyReference.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfoInputs.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.AssemblyInfo.cs
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.csproj.CoreCompileInputs.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\refint\Task_41.dll
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.pdb
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\Task_41.genruntimeconfig.cache
+D:\Мои документы\Игорь\Учим програмирование\Материалы по C#\HoumWork 22.08.2022\Task_41\obj\Debug\net6.0\ref\Task_41.dll
